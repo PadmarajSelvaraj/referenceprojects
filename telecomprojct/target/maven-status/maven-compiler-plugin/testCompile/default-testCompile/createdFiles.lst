@@ -1,0 +1,6 @@
+com\demo\hooks\TestHooks.class
+com\demo\runner\RunnerTest.class
+com\demo\stepdefinition\RetriveQuotationTest.class
+com\demo\stepdefinition\PolicyCreationTest.class
+com\demo\stepdefinition\QuotationTest.class
+com\demo\stepdefinition\LoginTest.class

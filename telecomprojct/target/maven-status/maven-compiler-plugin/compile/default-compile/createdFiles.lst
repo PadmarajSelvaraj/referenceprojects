@@ -1,0 +1,15 @@
+com\demo\pages\ReriveQuotationPage.class
+com\demo\pages\HomePage.class
+com\demo\pages\LoginPage.class
+com\demo\utils\ExcelUtil.class
+com\demo\utils\PropertyLoader.class
+com\demo\loacators\HomePageLocators.class
+com\demo\loacators\InsuranceHomePageLocators.class
+com\demo\pages\RequestQuotationPage.class
+com\demo\utils\SeleniumUtils.class
+com\demo\loacators\LoginPageLocators.class
+com\demo\loacators\RequestQutoationPageLocators.class
+com\demo\loacators\ReriveQuotationPageLocators.class
+com\demo\utils\SharedContext.class
+com\demo\utils\DriverManager.class
+com\demo\pages\InsuranceHomePage.class
